@@ -7,7 +7,7 @@
 ![image](https://github.com/RESMIRNAIR/PRIORITY_ENCODER/assets/154305926/3da43bab-6ee6-456f-858f-4553d3623f8c)
 
 # VERILOG CODE:
-
+~~~
 module priority_encoder(
 
   input [7:0] D,
@@ -41,7 +41,7 @@ module priority_encoder(
   end
 
 endmodule
-
+~~~
 # OUTPUT:
 
 ![image](https://github.com/nithin2134/PRIORITY_ENCODER/assets/160302970/107cf0e6-382b-49ad-bcde-c13722d76f2a)
